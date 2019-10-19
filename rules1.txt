@@ -1,0 +1,12 @@
+letter=a-z
+digit=0-9
+num:digit+.digit+|digit+
+[;,\(\){}]
+id:letter(letter|digit)*
+relop:\=\=|!\=|>
+relop:\>\=|<\=|<
+{boolean int float}
+assign:=
+addop:\+|-
+mulop:\*|/
+{ if else while }

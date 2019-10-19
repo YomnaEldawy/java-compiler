@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1555406908 source:c:\users\experts\downloads\last version of compiler\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stack>
+	<nfa.h>
+	<dfa_state.h>
+	<dfa.h>
+	<dfa_instance.h>
+	<minimization.h>
+	<fstream>
+
+1555410561 c:\users\experts\downloads\last version of compiler\include\nfa.h
+	<vector>
+	<iostream>
+	<stack>
+
+1555106802 c:\users\experts\downloads\last version of compiler\include\dfa_state.h
+	<vector>
+	<iostream>
+
+1555106822 c:\users\experts\downloads\last version of compiler\include\dfa.h
+	<vector>
+	<nfa.h>
+	<dfa_state.h>
+	<algorithm>
+	<stack>
+
+1555106841 c:\users\experts\downloads\last version of compiler\include\dfa_instance.h
+	<vector>
+	<dfa.h>
+	<dfa_state.h>
+	<stack>
+
+1555106778 c:\users\experts\downloads\last version of compiler\include\minimization.h
+	<vector>
+	<dfa.h>
+
+1555106694 source:c:\users\experts\downloads\last version of compiler\src\dfa.cpp
+	"dfa.h"
+
+1555106700 source:c:\users\experts\downloads\last version of compiler\src\dfa_instance.cpp
+	"dfa_instance.h"
+
+1555106707 source:c:\users\experts\downloads\last version of compiler\src\dfa_state.cpp
+	"dfa_state.h"
+
+1555106713 source:c:\users\experts\downloads\last version of compiler\src\minimization.cpp
+	"minimization.h"
+
+1555106667 source:c:\users\experts\downloads\last version of compiler\src\nfa.cpp
+	"nfa.h"
+
+1556195396 source:d:\old downloads\last version of compiler\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stack>
+	<nfa.h>
+	<dfa_state.h>
+	<dfa.h>
+	<dfa_instance.h>
+	<minimization.h>
+	<output.h>
+	<grammar.h>
+	<fstream>
+
+1555410561 d:\old downloads\last version of compiler\include\nfa.h
+	<vector>
+	<iostream>
+	<stack>
+
+1555106802 d:\old downloads\last version of compiler\include\dfa_state.h
+	<vector>
+	<iostream>
+
+1555106822 d:\old downloads\last version of compiler\include\dfa.h
+	<vector>
+	<nfa.h>
+	<dfa_state.h>
+	<algorithm>
+	<stack>
+
+1555106841 d:\old downloads\last version of compiler\include\dfa_instance.h
+	<vector>
+	<dfa.h>
+	<dfa_state.h>
+	<stack>
+
+1555106778 d:\old downloads\last version of compiler\include\minimization.h
+	<vector>
+	<dfa.h>
+
+1555106694 source:d:\old downloads\last version of compiler\src\dfa.cpp
+	"dfa.h"
+
+1555106700 source:d:\old downloads\last version of compiler\src\dfa_instance.cpp
+	"dfa_instance.h"
+
+1555106707 source:d:\old downloads\last version of compiler\src\dfa_state.cpp
+	"dfa_state.h"
+
+1555106713 source:d:\old downloads\last version of compiler\src\minimization.cpp
+	"minimization.h"
+
+1555106667 source:d:\old downloads\last version of compiler\src\nfa.cpp
+	"nfa.h"
+
+1556114738 source:d:\old downloads\last version of compiler\src\grammar.cpp
+	"grammar.h"
+
+1556195382 d:\old downloads\last version of compiler\include\grammar.h
+	<production.h>
+	<symbol.h>
+	<fstream>
+	<map>
+	<stack>
+
+1556114702 d:\old downloads\last version of compiler\include\production.h
+	<iostream>
+	<vector>
+	<symbol.h>
+
+1556119247 d:\old downloads\last version of compiler\include\symbol.h
+	<iostream>
+	<vector>
+
+1556114745 source:d:\old downloads\last version of compiler\src\output.cpp
+	"output.h"
+
+1556193116 d:\old downloads\last version of compiler\include\output.h
+	<production.h>
+	<symbol.h>
+	<grammar.h>
+	<stack>
+
+1556114751 source:d:\old downloads\last version of compiler\src\production.cpp
+	"production.h"
+
+1556114757 source:d:\old downloads\last version of compiler\src\symbol.cpp
+	"symbol.h"
+
